@@ -1,10 +1,33 @@
 {
   "name": "@samelie/google-cloudstorage",
-  "version": "0.1.0",
   "description": "",
-  "author": "samelie",
-  "license": "MIT",
+  "homepage": "https://github.com/samelie/google-cloudstorage",
+  "author": "Sam Elie <sam@add.dog>",
+  "version": "0.0.1",
   "repository": {
-    "type": "git"
-  }
+    "type": "git",
+    "url": "https://github.com/samelie/google-cloudstorage.git",
+    "web": "https://github.com/samelie/google-cloudstorage/"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "lodash": "^4.16.3",
+    "redis": "^2.6.2"
+  },
+  "engines": {
+    "node": ">=6.7.0"
+  },
+  "keywords": [
+  ],
+  "bugs": {
+    "url": "https://github.com/samelie/google-cloudstorage/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
 }
