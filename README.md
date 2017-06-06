@@ -1,4 +1,6 @@
-#google-cloudstorage
+#google-cloudstorage-commands
+
+Assumes you have gcloud installed and setup.
 
 Utilities. Everything is promised.
 
@@ -26,4 +28,6 @@ bucket <string> (required)
 
 
 ##Example
+
+example.js
 

@@ -1,30 +1,31 @@
 {
-  "name": "@samelie/google-cloudstorage",
-  "description": "",
-  "homepage": "https://github.com/samelie/google-cloudstorage",
-  "author": "Sam Elie <sam@add.dog>",
-  "version": "0.0.1",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/samelie/google-cloudstorage.git",
-    "web": "https://github.com/samelie/google-cloudstorage/"
+  "author": {
+    "name": "Sam Elie",
+    "email": "sam@add.dog"
   },
-  "main": "index.js",
-  "scripts": {},
-  "dependencies": {
+  "bugs": {
+    "url": "https://github.com/samradical/google-cloudstorage-commands/issues"
   },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Utilities. Everything is promised.",
   "engines": {
     "node": ">=6.7.0"
   },
-  "keywords": [
-  ],
-  "bugs": {
-    "url": "https://github.com/samelie/google-cloudstorage/issues"
+  "homepage": "https://github.com/samradical/google-cloudstorage-commands",
+  "keywords": [],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  }],
+  "main": "index.js",
+  "name": "google-cloudstorage-commands",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samradical/google-cloudstorage-commands.git",
+    "web": "https://github.com/samradical/google-cloudstorage-commands/"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://opensource.org/licenses/MIT"
-    }
-  ]
+  "scripts": {},
+  "version": "0.0.1"
 }
