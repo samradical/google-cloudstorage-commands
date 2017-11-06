@@ -15,10 +15,12 @@
   },
   "homepage": "https://github.com/samradical/google-cloudstorage-commands",
   "keywords": [],
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://opensource.org/licenses/MIT"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
   "main": "index.js",
   "name": "google-cloudstorage-commands",
   "repository": {
